@@ -33,17 +33,21 @@ https://docs.google.com/document/d/1Vv-o3vLFDROEZuxc5snFZp-YmE00O3Ii/edit?usp=sh
 
 ## Contributors
 
-👤 **Arif Mohammad Asfe**
-* LinkedIn: [@arifasfe](https://www.linkedin.com/in/arifasfe/)
-* GitHub: [@arifasfe](https://github.com/arifasfe)
-
 👤 **Mohammad Akbar Bin Shah**
 * LinkedIn: [@mohammad-akbar2603](https://www.linkedin.com/in/mohammad-akbar2603/)
 * GitHub: [@smhproduct](https://github.com/smhproduct)
 
+👤 **Kowshik Chowdhury**
+* LinkedIn: [@kowshik-chowdhury-44419819a](https://www.linkedin.com/in/kowshik-chowdhury-44419819a/)
+* GitHub: [@Kowshik-18](https://github.com/Kowshik-18)
+
 👤 **Ahammed Zayed Uddin Rahat**
 * LinkedIn: [@ahammed-zayed-uddin-rahat-18cse](https://www.linkedin.com/in/ahammed-zayed-uddin-rahat-18cse/)
 * GitHub: [@Zayed-Rahat](https://github.com/Zayed-Rahat)
+
+👤 **Arif Mohammad Asfe**
+* LinkedIn: [@arifasfe](https://www.linkedin.com/in/arifasfe/)
+* GitHub: [@arifasfe](https://github.com/arifasfe)
 
 👤 **Rajarshi Sen**
 * GitHub: [Rajarshi-sen24](https://github.com/Rajarshi-sen24)
@@ -51,7 +55,3 @@ https://docs.google.com/document/d/1Vv-o3vLFDROEZuxc5snFZp-YmE00O3Ii/edit?usp=sh
 
 👤 **Antu Chowdhury**
 * LinkedIn: [@antu-chowdhury-167045200](https://www.linkedin.com/in/antu-chowdhury-167045200/)
-
-👤 **Kowshik Chowdhury**
-* LinkedIn: [@kowshik-chowdhury-44419819a](https://www.linkedin.com/in/kowshik-chowdhury-44419819a/)
-* GitHub: [@Kowshik-18](https://github.com/Kowshik-18)
